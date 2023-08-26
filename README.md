@@ -1,6 +1,6 @@
 ## Hi! I am Yuri Antonelli
 - 📝  Quantitative Finance student
-- 👨‍💻 Incoming Trainee at European Central Bank
+- 👨‍💻 Trainee at European Central Bank
 
 <!---
 YuriAntonelli/YuriAntonelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
