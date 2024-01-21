@@ -1,5 +1,5 @@
 ## Hi! I am Yuri Antonelli
-- 📝  Quantitative Finance student
+- 📝 Highly interested in anything that links economics to maths&stats! 
 - 👨‍💻 Trainee at European Central Bank
 
 <!---
