@@ -1,6 +1,6 @@
 ## Hi! I am Yuri Antonelli
-- 📝 Highly interested in anything that links economics to maths&stats! 
-- 👨‍💻 Trainee at European Central Bank
+- 📝 Highly interested in anything that links economics&finance to maths&stats! 
+- 👨‍💻 Incoming Quant UBS
 
 <!---
 YuriAntonelli/YuriAntonelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
