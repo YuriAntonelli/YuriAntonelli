@@ -6,7 +6,6 @@
 ***
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuriAntonelli&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriAntonelli&layout=compact&show_icons=true&card_width=445&theme=tokyonight)
 
 [linkedin]: https://www.linkedin.com/in/yuri-antonelli/
 
