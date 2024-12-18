@@ -1,5 +1,5 @@
 ## Hi! I am Yuri Antonelli
-- I'm extremely interested in anything that links economics&finance to maths&stats!👨‍💻
+- Passionate about the intersection of quantitative finance and computer science, with key interests in quantitative risk management, financial mathematics, econometrics and machine learning👨‍💻
 
 [<img alt="LinkedIn | yuri-antonelli" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 
