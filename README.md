@@ -5,8 +5,6 @@ Blending Finance, Mathematics, and Computer Science to tackle real-world challen
 
 ***
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuriAntonelli&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
-
 [linkedin]: https://www.linkedin.com/in/yuri-antonelli/
 
 <!---
