@@ -1,5 +1,5 @@
 ## Hi! I am Yuri Antonelli
-Blending Finance, Mathematics, and Computer Science to tackle real-world challenges 
+Quant Developer | C++ • Python • Quantitative Finance
 
 [<img alt="LinkedIn | yuri-antonelli" height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 
